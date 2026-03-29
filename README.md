@@ -15,5 +15,4 @@ streamlit run app.py
 ## Screenshot
 ![App(Screenshot 2026-03-29 233447.png)]
 
-## Result
-![Result](screenshots/result.png)
+
