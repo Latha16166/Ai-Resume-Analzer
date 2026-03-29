@@ -13,7 +13,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Screenshot
-![App](screenshots/app.png)
+![App(Screenshot 2026-03-29 233447.png)]
 
 ## Result
 ![Result](screenshots/result.png)
