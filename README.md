@@ -7,7 +7,13 @@ This project analyzes resumes using AI and compares them with job descriptions.
 - Skill extraction
 - Match score
 - Missing skills
-
+  
 ## Run project
 pip install -r requirements.txt
 streamlit run app.py
+
+## Screenshot
+![App](screenshots/app.png)
+
+## Result
+![Result](screenshots/result.png)
